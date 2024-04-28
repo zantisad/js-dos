@@ -104,4 +104,4 @@ nuevaMateria.addEventListener("keypress" function(event) => {
     }
 })
 
-let xd = [""];
+let xd = ["hola"];
